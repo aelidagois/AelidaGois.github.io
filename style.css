@@ -1,5 +1,7 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
 }
 img{
     border-radius: 100%;
@@ -19,6 +21,19 @@ p {
     text-align: center;
 }
 
-#foto_da_Aélida {
+.paragrafo {
+    background-color: white;
+    
+   
+}
 
+.life {
+    color: rgb(179, 71, 44);
+}
+
+.texto_descritivo {
+    overflow-y:scroll;
+    width: 80%;
+    height: 300px;
+   
 }
