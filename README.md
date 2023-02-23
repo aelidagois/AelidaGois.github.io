@@ -10,9 +10,9 @@ Contate-me no email lidasouza89@gmail.com ðŸ“§ ou pelo telefone (11)96018-4633 â
 ##
 
 <div align="center">
-  <a href="https://github.com/aelidagois">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aelidagois&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelidagois&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/AelidaGois">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AelidaGois&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AelidaGois&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Aelida-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
